@@ -89,7 +89,7 @@ npx serve .
 Cari dan ganti:
 
 ```
-6281234567890
+6281281182245
 ```
 
 di file `index.html` dengan nomor WhatsApp asli.
@@ -101,8 +101,8 @@ Edit variabel CSS di bagian `:root` pada file `style.css`.
 
 ## 📞 Kontak
 
-- 📱 WhatsApp: 0812-3456-7890  
-- 📍 Lokasi: Bekasi Utara, Jawa Barat  
+- 📱 WhatsApp: 081281182245  
+- 📍 Lokasi: Klinik Bidan Srikandi P.Weni Bekasi Utara, Jawa Barat  
 
 ---
 
